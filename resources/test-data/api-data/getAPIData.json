@@ -1,0 +1,31 @@
+{
+  "dataSet": [
+    {
+      "id": "1",
+      "expected_output": 200
+    } ,
+    {
+      "id": "2",
+      "expected_output": 200
+    },
+    {
+      "id": " 1 ",
+      "expected_output": 200
+    },
+    {
+      "id": "5",
+      "expected_output": 400
+    },
+    {
+      "id": null,
+      "expected_output": 400
+    },{
+      "id": " 6 ",
+      "expected_output": 400
+    },
+    {
+      "id": "",
+      "expected_output": 400
+    }
+  ]
+}

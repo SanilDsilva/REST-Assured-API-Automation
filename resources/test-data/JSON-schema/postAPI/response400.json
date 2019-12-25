@@ -1,0 +1,77 @@
+{
+  "definitions": {} ,
+  "$schema": "http://json-schema.org/draft-07/schema#" ,
+  "$id": "http://example.com/root.json" ,
+  "type": "object" ,
+  "title": "The Root Schema" ,
+  "required": [
+    "status" ,
+    "data" ,
+    "error" ,
+    "message"
+  ] ,
+  "properties": {
+    "status": {
+      "$id": "#/properties/status" ,
+      "type": "integer" ,
+      "title": "The Status Schema" ,
+      "default": 0 ,
+      "examples": [
+        400
+      ] ,
+      "enum": [
+        400
+      ]
+    } ,
+    "data": {
+      "$id": "#/properties/data" ,
+      "type": "null" ,
+      "title": "The Data Schema" ,
+      "default": null ,
+      "examples": [
+        null
+      ]
+    } ,
+    "error": {
+      "$id": "#/properties/error" ,
+      "type": "object" ,
+      "title": "The Error Schema" ,
+      "required": [
+        "error-message" ,
+        "internalErrorCode"
+      ] ,
+      "properties": {
+        "error-message": {
+          "$id": "#/properties/error/properties/error-message" ,
+          "type": "string" ,
+          "title": "The Error-message Schema" ,
+          "default": "" ,
+          "examples": [
+            "Here you go..! Fault Code"
+          ] ,
+          "pattern": "(.|\\s)*\\S(.|\\s)*"
+        } ,
+        "internalErrorCode": {
+          "$id": "#/properties/error/properties/internalErrorCode" ,
+          "type": "string" ,
+          "title": "The Internalerrorcode Schema" ,
+          "default": "" ,
+          "examples": [
+            "5"
+          ] ,
+          "pattern": "^(.*)$"
+        }
+      }
+    } ,
+    "message": {
+      "$id": "#/properties/message" ,
+      "type": "string" ,
+      "title": "The Message Schema" ,
+      "default": "" ,
+      "examples": [
+        ""
+      ] ,
+      "pattern": "^(.*)$"
+    }
+  }
+}

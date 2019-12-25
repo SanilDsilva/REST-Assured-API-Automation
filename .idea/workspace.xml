@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0b1c08b-7a50-40cc-8363-8e7e95a2c599" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V62dxRgeRZgywYPl0fICRcqD18" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JSON" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/test-data/JSON-schema" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Techjini\Downloads\MobileAutomationFramework-master\APIAutomatonFramework-RestAssured\resources\test-data\JSON-schema" />
+      <recent name="C:\Users\Techjini\Downloads\MobileAutomationFramework-master\APIAutomatonFramework-RestAssured\resources\test-data\JSON-schema\getAPI" />
+      <recent name="C:\Users\Techjini\Downloads\MobileAutomationFramework-master\APIAutomatonFramework-RestAssured\resources\test-data\api-data" />
+      <recent name="C:\Users\Techjini\Downloads\MobileAutomationFramework-master\APIAutomatonFramework-RestAssured\resources\test-data\JSON-schema\postAPI200" />
+      <recent name="C:\Users\Techjini\Downloads\MobileAutomationFramework-master\APIAutomatonFramework-RestAssured\src\test\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pokerApi.v2_1" />
+      <recent name="serializationClass" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Techjini\Downloads\MobileAutomationFramework-master\APIAutomatonFramework-RestAssured\resources\test-data" />
+      <recent name="C:\Users\Techjini\Downloads\MobileAutomationFramework-master\APIAutomatonFramework-RestAssured\resources\test-data\api-data" />
+      <recent name="C:\Users\Techjini\Downloads\MobileAutomationFramework-master\APIAutomatonFramework-RestAssured\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.GetApi2">
+    <configuration name="GetApi" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomatonFramework-RestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pokerApi.v2_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pokerApi.v2_1" />
+      <option name="MAIN_CLASS_NAME" value="pokerApi.v2_1.GetApi" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetApi2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomatonFramework-RestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pokerApi.v2_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pokerApi.v2_1" />
+      <option name="MAIN_CLASS_NAME" value="pokerApi.v2_1.GetApi2" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetApi2.getAPI2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomatonFramework-RestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pokerApi.v2_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pokerApi.v2_1" />
+      <option name="MAIN_CLASS_NAME" value="pokerApi.v2_1.GetApi2" />
+      <option name="METHOD_NAME" value="getAPI2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetApi.sampleGetAPI (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomatonFramework-RestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pokerApi.v2_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pokerApi.v2_1" />
+      <option name="MAIN_CLASS_NAME" value="pokerApi.v2_1.GetApi" />
+      <option name="METHOD_NAME" value="sampleGetAPI" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostApi" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomatonFramework-RestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pokerApi.v2_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pokerApi.v2_1" />
+      <option name="MAIN_CLASS_NAME" value="pokerApi.v2_1.PostApi" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.GetApi2" />
+        <item itemvalue="TestNG.GetApi2.getAPI2" />
+        <item itemvalue="TestNG.GetApi.sampleGetAPI (1)" />
+        <item itemvalue="TestNG.PostApi" />
+        <item itemvalue="TestNG.GetApi" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0b1c08b-7a50-40cc-8363-8e7e95a2c599" name="Default Changelist" comment="" />
+      <created>1576559314627</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576559314627</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="47" key="#com.intellij.ide.util.MemberChooser" timestamp="1577186380790">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="47" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1577186380790" />
+    <state width="1323" height="357" key="GridCell.Tab.0.bottom" timestamp="1577191638692">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="357" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577191638692" />
+    <state width="1323" height="357" key="GridCell.Tab.0.center" timestamp="1577191638692">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="357" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577191638692" />
+    <state width="1323" height="357" key="GridCell.Tab.0.left" timestamp="1577191638692">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="357" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577191638692" />
+    <state width="1323" height="357" key="GridCell.Tab.0.right" timestamp="1577191638692">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="357" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577191638692" />
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog" timestamp="1577160083324">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1577160083324" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1577186220465">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1577186220465" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1577191143062">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1577191143062" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1577186583249">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1577186583249" />
+  </component>
+</project>

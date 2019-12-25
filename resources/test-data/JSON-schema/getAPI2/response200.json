@@ -1,0 +1,104 @@
+{
+  "definitions": {} ,
+  "$schema": "http://json-schema.org/draft-07/schema#" ,
+  "$id": "http://example.com/root.json" ,
+  "type": "object" ,
+  "title": "The Root Schema" ,
+  "required": [
+    "status" ,
+    "data" ,
+    "error" ,
+    "message"
+  ] ,
+  "properties": {
+    "status": {
+      "$id": "#/properties/status" ,
+      "type": "integer" ,
+      "title": "The Status Schema" ,
+      "default": 0 ,
+      "examples": [
+        200
+      ] ,
+      "enum": [
+        200
+      ]
+    } ,
+    "data": {
+      "$id": "#/properties/data" ,
+      "type": "array" ,
+      "title": "The Data Schema" ,
+      "items": {
+        "$id": "#/properties/data/items" ,
+        "type": "object" ,
+        "title": "The Items Schema" ,
+        "required": [
+          "id" ,
+          "firstname" ,
+          "Lastname" ,
+          "status"
+        ] ,
+        "properties": {
+          "id": {
+            "$id": "#/properties/data/items/properties/id" ,
+            "type": "integer" ,
+            "title": "The Id Schema" ,
+            "default": 0 ,
+            "examples": [
+              1
+            ] ,
+            "pattern": "^[0-9]*$"
+          } ,
+          "firstname": {
+            "$id": "#/properties/data/items/properties/firstname" ,
+            "type": "string" ,
+            "title": "The Firstname Schema" ,
+            "default": "" ,
+            "examples": [
+              "John1"
+            ] ,
+            "pattern": "(.|\\s)*\\S(.|\\s)*"
+          } ,
+          "Lastname": {
+            "$id": "#/properties/data/items/properties/Lastname" ,
+            "type": "string" ,
+            "title": "The Lastname Schema" ,
+            "default": "" ,
+            "examples": [
+              "Snow1"
+            ] ,
+            "pattern": "(.|\\s)*\\S(.|\\s)*"
+          } ,
+          "status": {
+            "$id": "#/properties/data/items/properties/status" ,
+            "type": "string" ,
+            "title": "The Status Schema" ,
+            "default": "" ,
+            "examples": [
+              "Learning things"
+            ] ,
+            "pattern": "(.|\\s)*\\S(.|\\s)*"
+          }
+        }
+      }
+    } ,
+    "error": {
+      "$id": "#/properties/error" ,
+      "type": "null" ,
+      "title": "The Error Schema" ,
+      "default": null ,
+      "examples": [
+        null
+      ]
+    } ,
+    "message": {
+      "$id": "#/properties/message" ,
+      "type": "string" ,
+      "title": "The Message Schema" ,
+      "default": "" ,
+      "examples": [
+        "sucessfully fetched"
+      ] ,
+      "pattern": "^(.*)$"
+    }
+  }
+}

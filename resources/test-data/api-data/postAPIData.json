@@ -1,0 +1,87 @@
+{
+  "dataSet": [
+    {
+      "firstname": "sanil",
+      "lastname": "dsilva",
+      "age": "25",
+      "expected_output": 200
+    } ,
+    {
+      "firstname": " sanil ",
+      "lastname": " dsilva ",
+      "age": " 25 ",
+      "expected_output": 200
+    },
+    {
+      "firstname": "",
+      "lastname": "dsilva",
+      "age": "25",
+      "expected_output": 400
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "age": "25",
+      "expected_output": 400
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "age": "",
+      "expected_output": 400
+    },
+    {
+      "firstname": "@%&^#@%&",
+      "lastname": "dsilva",
+      "age": "25",
+      "expected_output": 400
+    }, {
+      "firstname": "sanil",
+      "lastname": "*&%*%*&",
+      "age": "25",
+      "expected_output": 400
+    },
+    {
+      "firstname": "sanil",
+      "lastname": "dsilva",
+      "age": "gsjg",
+      "expected_output": 400
+    },
+    {
+      "firstname": "sanil",
+      "lastname": "dsilva",
+      "age": "*%&^%^",
+      "expected_output": 400
+    },
+    {
+      "firstname": "123",
+      "lastname": "dsilva",
+      "age": "25",
+      "expected_output": 400
+    },
+    {
+      "firstname": "sanil",
+      "lastname": "4646",
+      "age": "25",
+      "expected_output": 400
+    },
+    {
+      "firstname": "sanil",
+      "lastname": "dsilva",
+      "age": "bjd",
+      "expected_output": 400
+    },
+    {
+      "firstname": "3274",
+      "lastname": "t24",
+      "age": "dsj",
+      "expected_output": 400
+    },
+    {
+      "firstname": "@%&^#@%&",
+      "lastname": "dsilva",
+      "age": "25",
+      "expected_output": 400
+    }
+  ]
+}
