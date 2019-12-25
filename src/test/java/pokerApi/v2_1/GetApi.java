@@ -45,7 +45,7 @@ public class GetApi extends ExtentManager {
 
         //START REPORT GENERATION
         //START API REPORT
-        testReport = extent.createTest("Post API Data Report", "All the post api hit and related info shown here");
+        testReport = extent.createTest("Get API Data Report", "All the get api hit and related info shown here");
         String apiEndpoint = "http://127.0.0.1:3000/user";
         testReport.assignCategory(apiEndpoint);
 
