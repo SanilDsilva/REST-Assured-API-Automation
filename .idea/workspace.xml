@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f0b1c08b-7a50-40cc-8363-8e7e95a2c599" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,21 +34,22 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\TechJINI\apiAutomation\REST-Assured-API-Automation\projecctDataFiles" />
+      <recent name="C:\Users\Techjini\Downloads\MobileAutomationFramework-master\APIAutomatonFramework-RestAssured\resources\test-data" />
+      <recent name="C:\Users\Techjini\Downloads\MobileAutomationFramework-master\APIAutomatonFramework-RestAssured\resources\test-data\api-data" />
+      <recent name="C:\Users\Techjini\Downloads\MobileAutomationFramework-master\APIAutomatonFramework-RestAssured\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pokerApi.v2_1" />
+      <recent name="serializationClass" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Techjini\Downloads\MobileAutomationFramework-master\APIAutomatonFramework-RestAssured\resources\test-data\JSON-schema" />
       <recent name="C:\Users\Techjini\Downloads\MobileAutomationFramework-master\APIAutomatonFramework-RestAssured\resources\test-data\JSON-schema\getAPI" />
       <recent name="C:\Users\Techjini\Downloads\MobileAutomationFramework-master\APIAutomatonFramework-RestAssured\resources\test-data\api-data" />
       <recent name="C:\Users\Techjini\Downloads\MobileAutomationFramework-master\APIAutomatonFramework-RestAssured\resources\test-data\JSON-schema\postAPI200" />
       <recent name="C:\Users\Techjini\Downloads\MobileAutomationFramework-master\APIAutomatonFramework-RestAssured\src\test\java" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="pokerApi.v2_1" />
-      <recent name="serializationClass" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Techjini\Downloads\MobileAutomationFramework-master\APIAutomatonFramework-RestAssured\resources\test-data" />
-      <recent name="C:\Users\Techjini\Downloads\MobileAutomationFramework-master\APIAutomatonFramework-RestAssured\resources\test-data\api-data" />
-      <recent name="C:\Users\Techjini\Downloads\MobileAutomationFramework-master\APIAutomatonFramework-RestAssured\resources" />
     </key>
   </component>
   <component name="RunManager" selected="TestNG.GetApi2">
