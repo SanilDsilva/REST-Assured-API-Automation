@@ -58,7 +58,7 @@ public class PostApi extends ExtentManager {
 
 
         //HIT PostData200 API
-
+        //body(requestParam) : is the parameter body of POST API
         Response response = RestAssured.given().contentType(ContentType.JSON).body(requestParam)
                 .headers("Content-Type", "application/json").// Header
                 when().post(apiEndpoint). // API path
