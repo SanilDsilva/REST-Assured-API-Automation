@@ -3,7 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="f0b1c08b-7a50-40cc-8363-8e7e95a2c599" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pokerApi/v2_1/GetApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pokerApi/v2_1/GetApi2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pokerApi/v2_1/PostApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/APIAutomatonFramework-RestAssured.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pokerApi/v2_1/GetApi$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pokerApi/v2_1/GetApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pokerApi/v2_1/GetApi2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pokerApi/v2_1/PostApi$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pokerApi/v2_1/PostApi.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,6 +188,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="47" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1577186380790" />
+    <state x="363" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1579254500200">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1579254500200" />
     <state width="1323" height="357" key="GridCell.Tab.0.bottom" timestamp="1577191638692">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -204,6 +216,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1577186220465" />
+    <state x="65" y="59" key="new project wizard" timestamp="1579254488758">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="59" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1579254488758" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1577191143062">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
